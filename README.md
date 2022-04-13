@@ -1,6 +1,6 @@
 # ReadMe
-/bold/Introduction/!bold/
-Hello I'm troublesbrewin
+Introduction - 
+Hello I'm troublesbrewin,
 I'm a new member interested in numerous technical disciplines
 40 years of Audio Visual and Security system engineering from tube theory to 
 digital and network based systems and now cloud and server hosted access and video surveillance.
